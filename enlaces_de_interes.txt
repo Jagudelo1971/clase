@@ -1,1 +1,39 @@
+para validar estudiantes UdeM
+
 https://app.udem.edu.co/GestionEstudiantes/
+
+Para aprender temas de programación:
+
+Código facilitos: https://codigofacilito.com/suscripcion
+Colledge: https://www.colledge.social/login/index.php
+Coursera, fundamentos de gestion de proyectos: https://www.coursera.org/learn/fundamentos-de-la-gestion-de-proyectos/home/module/1
+Codigo facilito, para aprender de Github Actions: https://codigofacilito.com/videos/ejecutar-pruebas-8f7bb35c-b15a-49f8-8a02-fbec15248b22
+Coursera, Senatec: https://www.coursera.org/learn/fundamentos-de-la-gestion-de-proyectos/home/module/1
+httpbin, para validar GET y POST: https://httpbin.org/#/HTTP_Methods/post_post
+theitwave, para temas de redes: https://www.theitwave.com/
+Atlassian, backlogs y otros de Jira: https://www.atlassian.com/es/agile/project-management/sprint-backlog#:~:text=Un%20backlog%20de%20sprint%20mantiene,tareas%20que%20hay%20que%20hacer.
+Resumen funciones Python (MUY IMPORTANTE): https://overapi.com/python#google_vignette
+Real Python: https://realpython.com/python-type-hints-multiple-types/
+
+
+Parar temas de nube y Devops:
+
+Digital Ocean, login: https://cloud.digitalocean.com/login
+Opensistemas, Devops: https://opensistemas.com/secretos-de-una-buena-integracion-continua-devops/
+Aulab, para comandos git: https://aulab.es/articulos-guias-avanzadas/90/el-comando-git-fetch-en-git
+Heroku, temas varios: https://devcenter.heroku.com/articles/container-registry-and-runtime
+Trello: https://trello.com
+Jira, Atlassian con UdeM: https://udemedellin.atlassian.net/jira/software/projects/C2U/settings/notifications/issue-logs?projectId=10005
+AWS Academy: https://www.awsacademy.com
+AWS Login: https://login.us-east-1.auth
+Atlassian Confluence: https://id.atlassian.com/join/user-access?resource=ari%3Acloud%3Aconfluence%3A%3Asite%2Fdec6c7ad-695a-4ca6-9327-8d9254de604a&continue=https%3A%2F%2Fdatamatrix-company-team.atlassian.net%2Fwiki%2Fspaces%2FDATAMATRIX%2Foverview
+
+
+Otros temas:
+
+EBITDA: https://www.linkedin.com/pulse/el-secreto-para-mejorar-ebitda-de-mi-pyme-digitales-al-martinez-xs8ve/
+INGLES con LETZ: https://app.letz.com.co/auth/login 
+Temas de CISCO y Seguridad: https://www.americadigital.org/2023/01_NetAcad/08/SDMINTICColombia/06_WebsiteRepositorio/RC.html
+Academia CISCO: https://auth.netacad.com/auth/realms/skillsforall/broker/google/endpoint?state=0lSboWx2Qpl13bVFm91azTZn02KlxgArWltgo-FkRhw.PuHAQt34ybc.iHAGXEWeQ_KDwpVpNI8slQ&code=4%2F0ATx3LY6kUq19OCTSmd-71cCp-pUGmEutX3EoKUhgSWqNZkwpcDOcH5YrPlGe1An0gK6QMQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
+MERCURIAL, como opción a GIT: https://www.bing.com/search?EID=MBSC&form=BGGCMF&pc=U763&DPC=BG02&q=mercurial+para+gesti%C3%B3n+de+versiones
+
