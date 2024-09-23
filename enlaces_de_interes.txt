@@ -27,6 +27,10 @@ Jira, Atlassian con UdeM: https://udemedellin.atlassian.net/jira/software/projec
 AWS Academy: https://www.awsacademy.com
 AWS Login: https://login.us-east-1.auth
 Atlassian Confluence: https://id.atlassian.com/join/user-access?resource=ari%3Acloud%3Aconfluence%3A%3Asite%2Fdec6c7ad-695a-4ca6-9327-8d9254de604a&continue=https%3A%2F%2Fdatamatrix-company-team.atlassian.net%2Fwiki%2Fspaces%2FDATAMATRIX%2Foverview
+Bitbucket: https://bitbucket.org/claseudem/clase1_bitbucket/src/main/
+DockerDOCS: https://docs.docker.com/build/metadata/annotations/
+Página del club de los estudiantes UdeM 2024-2: https://globaldeveloperclubs.com/
+Recursos de GitHub (Muy interesante): https://github.com/github-education-resources
 
 
 Otros temas:
